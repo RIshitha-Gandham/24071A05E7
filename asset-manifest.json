@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/24071A05E7/static/css/main.abd8ce8a.css",
-    "main.js": "/24071A05E7/static/js/main.a1e64bfe.js",
-    "static/js/453.f9230574.chunk.js": "/24071A05E7/static/js/453.f9230574.chunk.js",
-    "index.html": "/24071A05E7/index.html",
-    "main.abd8ce8a.css.map": "/24071A05E7/static/css/main.abd8ce8a.css.map",
-    "main.a1e64bfe.js.map": "/24071A05E7/static/js/main.a1e64bfe.js.map",
-    "453.f9230574.chunk.js.map": "/24071A05E7/static/js/453.f9230574.chunk.js.map"
+    "main.css": "/gym-management-system/static/css/main.abd8ce8a.css",
+    "main.js": "/gym-management-system/static/js/main.87ff8974.js",
+    "static/js/453.f9230574.chunk.js": "/gym-management-system/static/js/453.f9230574.chunk.js",
+    "index.html": "/gym-management-system/index.html",
+    "main.abd8ce8a.css.map": "/gym-management-system/static/css/main.abd8ce8a.css.map",
+    "main.87ff8974.js.map": "/gym-management-system/static/js/main.87ff8974.js.map",
+    "453.f9230574.chunk.js.map": "/gym-management-system/static/js/453.f9230574.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd8ce8a.css",
-    "static/js/main.a1e64bfe.js"
+    "static/js/main.87ff8974.js"
   ]
 }
